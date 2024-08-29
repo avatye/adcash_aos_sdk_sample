@@ -21,14 +21,6 @@
             android:name="com.naver.gfpsdk.PUBLISHER_CD"
             android:value="YOUR_NAVER_CODE" />
 
-        <meta-data
-            android:name="com.mobon.sdk.MediaCode"
-            android:value="YOUR_mobon_code" />
-
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="YOUR_gms_ads_APPLICATION_ID_code" />
-
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait"
